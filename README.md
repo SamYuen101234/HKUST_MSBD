@@ -6,10 +6,9 @@ I have uploaded all my class materials, assignments, projects and exams here.
 
 #### MSBD 5003 Big Data Computing
 
-#### MSBD 5006 Financial Time Series
+#### MSBD 5006 Quantitative Analysis of Financial Time Series
 
-#### MSBD 5008 Social Media Computing
-
+#### MSBD 5008 Introduction to Social Computing
 
 #### MSBD 5012 Machine Learning
 
